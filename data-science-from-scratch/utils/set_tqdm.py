@@ -1,0 +1,11 @@
+
+%%html
+<style>
+.cell-output-ipywidget-background {
+    background-color: transparent !important;
+}
+:root {
+    --jp-widgets-color: var(--vscode-editor-foreground);
+    --jp-widgets-font-size: var(--vscode-editor-font-size);
+}  
+</style>
